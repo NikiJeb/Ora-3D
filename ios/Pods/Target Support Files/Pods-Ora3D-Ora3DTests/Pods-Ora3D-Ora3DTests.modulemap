@@ -1,0 +1,6 @@
+module Pods_Ora3D_Ora3DTests {
+  umbrella header "Pods-Ora3D-Ora3DTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

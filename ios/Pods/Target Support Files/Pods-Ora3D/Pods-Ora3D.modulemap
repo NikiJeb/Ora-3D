@@ -1,0 +1,6 @@
+module Pods_Ora3D {
+  umbrella header "Pods-Ora3D-umbrella.h"
+
+  export *
+  module * { export * }
+}
